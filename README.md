@@ -62,7 +62,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Найден дефект в тест-кейсе  9 “Создание личного события с некорректной датой API”, в котором найден баг: KU1-5: При создании личного события с некорректной датой через API система принимает данные и создает событие
  
 
-### Контактная информация
-**Email:** katerinamedvedeva@mail.ru
+### Контактная информация 
+**Email:** <katerinamedvedeva@mail.ru>
 LinkedIn: 
 Личный сайт: 
