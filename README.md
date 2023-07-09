@@ -67,5 +67,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ### Контактная информация 
 **Email:** <katerinamedvedeva@mail.ru>
+
 LinkedIn: 
+
 Личный сайт: 
